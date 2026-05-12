@@ -71,10 +71,6 @@ const akmal = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=malfrmnsyhh&show_icons=true&theme=algolia&title_color=52b788&icon_color=52b788&bg_color=0f1210&border_color=2e352e&text_color=e8ede9&hide_border=false&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malfrmnsyhh&layout=compact&theme=algolia&title_color=52b788&bg_color=0f1210&border_color=2e352e&text_color=e8ede9" />
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=akmalfirmansyah&theme=algolia&background=0f1210&border=2e352e&ring=52b788&fire=74c69d&currStreakLabel=52b788&sideLabels=e8ede9&dates=7a8c7c&stroke=2e352e" />
