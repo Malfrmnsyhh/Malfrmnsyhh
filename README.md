@@ -54,7 +54,9 @@ const akmal = {
 
 ![MySQL](https://img.shields.io/badge/MySQL-1b4332?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-40916c?style=for-the-badge&logo=postgresql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-2d6a4f?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1b4332?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **AI / ML**
 
