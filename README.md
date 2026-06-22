@@ -31,7 +31,7 @@ class Developer:
     def __init__(self):
         self.name = "Muhammad Akmal Firmansyah"
         self.role = "Computer Science Student | Full-Stack Developer"
-        self.education = "Informatics @ University (Semester 4+)"
+        self.education = "Informatics"
         self.focus_areas = ["Machine Learning", "AI", "Full-Stack Web Development"]
         self.passion = "Building scalable, user-centric applications"
         
@@ -217,7 +217,7 @@ print(f"Always learning. Always growing. 🌱")
 - 🎯 User-centric design approach
 - ✨ Modern UI components
 
-[🔗 View Prototype](https://figma.com/design/...)
+[🔗 View Prototype]([https://figma.com/design/...](https://www.figma.com/proto/M77H09jtfWvCokPoBvAMrj/Project-UAS-UI-UX?page-id=9%3A125&node-id=60-1996&viewport=537%2C279%2C0.45&t=tqHyWj4iY65dB2P2-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=24%3A948))
 
 </div>
 
