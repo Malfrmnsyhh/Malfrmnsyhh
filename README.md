@@ -1,24 +1,18 @@
-<div align="center">
+# 👋 Muhammad Akmal Firmansyah
 
-<!-- Animated header dengan gradient yang lebih sophisticated -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=220&section=header&text=Muhammad%20Akmal%20Firmansyah&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%26%20ML%20Enthusiast&descAlignY=65&descColor=b3e5fc&rotate=-2" width="100%"/>
+### Computer Science Student | Full-Stack Developer | ML/AI Enthusiast
 
-</div>
-
-<!-- Typing animation dengan skills -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=800&color=0d47a1&center=true&vCenter=true&width=700&lines=Building%20elegant%20solutions%20with%20modern%20tech;Passionate%20about%20ML%2FAI%20%26%20Full-Stack%20Development;Turning%20ideas%20into%20interactive%20experiences" alt="Typing Animation" />
-</div>
-
-<br/>
+```
+Building elegant solutions with modern tech 💻
+Passionate about ML/AI & Full-Stack Development 🤖
+Turning ideas into interactive experiences ✨
+```
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Malfrmnsyhh&color=0d47a1&style=flat-square&label=Profile%20Views)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Malfrmnsyhh?style=flat-square&logo=github&label=Followers&color=0d47a1)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d47a1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmalfirmansyah)
+**🌍 Open to Collaboration** | **📚 Always Learning** | **💡 Problem Solver**
+
+[🔗 LinkedIn](https://linkedin.com/in/akmalfirmansyah) • [💻 GitHub](https://github.com/Malfrmnsyhh) • [📧 Email](mailto:akmalhard21@gmail.com)
 
 </div>
 
@@ -31,7 +25,7 @@ class Developer:
     def __init__(self):
         self.name = "Muhammad Akmal Firmansyah"
         self.role = "Computer Science Student | Full-Stack Developer"
-        self.education = "Informatics"
+        self.education = "Informatics @ University (Semester 4+)"
         self.focus_areas = ["Machine Learning", "AI", "Full-Stack Web Development"]
         self.passion = "Building scalable, user-centric applications"
         
@@ -117,11 +111,16 @@ print(f"Always learning. Always growing. 🌱")
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Malfrmnsyhh&theme=nord&background=0d1117&border=30363d&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff&sideLabels=e6edf3&dates=7d8590&stroke=30363d)](https://github.com/Malfrmnsyhh)
+**GitHub Profile:** [@Malfrmnsyhh](https://github.com/Malfrmnsyhh)
 
-<br/>
+```
+📊 Contributions: 200+ commits
+🔥 Active Streak: Consistent coding
+📚 Repositories: 10+ public projects
+⭐ Top Languages: Python, JavaScript, PHP, C++, Java
+```
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Malfrmnsyhh&theme=nord&bg_color=0d1117&border_color=30363d&text_color=e6edf3&title_color=79c0ff&hide_border=true&layout=compact)](https://github.com/Malfrmnsyhh)
+*Check GitHub profile untuk detailed stats*
 
 </div>
 
@@ -217,7 +216,7 @@ print(f"Always learning. Always growing. 🌱")
 - 🎯 User-centric design approach
 - ✨ Modern UI components
 
-[🔗 View Prototype]([https://figma.com/design/...](https://www.figma.com/proto/M77H09jtfWvCokPoBvAMrj/Project-UAS-UI-UX?page-id=9%3A125&node-id=60-1996&viewport=537%2C279%2C0.45&t=tqHyWj4iY65dB2P2-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=24%3A948))
+[🔗 View Prototype](https://www.figma.com/proto/M77H09jtfWvCokPoBvAMrj/Project-UAS-UI-UX?page-id=9%3A125&node-id=64-2889&viewport=537%2C279%2C0.45&t=4P67QXZrwcDzPlMo-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=24%3A948)
 
 </div>
 
@@ -317,12 +316,14 @@ Saya terbuka untuk:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=120&section=footer&text=Happy%20Coding%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%"/>
+---
 
-<p>
-  <em>"Code is poetry written for computers and humans alike."</em>
-  <br/>
-  <strong>Let's build something amazing together! 💙</strong>
-</p>
+### 🚀 Happy Coding!
+
+> *"Code is poetry written for computers and humans alike."*
+
+**Let's build something amazing together! 💙**
+
+Made with ❤️ by Muhammad Akmal Firmansyah
 
 </div>
