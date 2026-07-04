@@ -1,329 +1,106 @@
-# 👋 Muhammad Akmal Firmansyah
+# Hi there 👋
 
-### Computer Science Student | Full-Stack Developer | ML/AI Enthusiast
+I'm **Muhammad Akmal Firmansyah**, an Informatics student at **Universitas Pembangunan Nasional "Veteran" Jawa Timur**.
 
-```
-Building elegant solutions with modern tech 💻
-Passionate about ML/AI & Full-Stack Development 🤖
-Turning ideas into interactive experiences ✨
-```
-
-<div align="center">
-
-**🌍 Open to Collaboration** | **📚 Always Learning** | **💡 Problem Solver**
-
-[🔗 LinkedIn](https://linkedin.com/in/akmalfirmansyah) • [💻 GitHub](https://github.com/Malfrmnsyhh) • [📧 Email](mailto:akmalhard21@gmail.com)
-
-</div>
+I'm passionate about learning new technologies, exploring innovative ideas, and building software that creates real impact. My interests include **Artificial Intelligence, Machine Learning, Web Development, Web3, Mobile Development**, and other emerging technologies.
 
 ---
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Muhammad Akmal Firmansyah"
-        self.role = "Computer Science Student | Full-Stack Developer"
-        self.education = "Informatics @ University (Semester 4+)"
-        self.focus_areas = ["Machine Learning", "AI", "Full-Stack Web Development"]
-        self.passion = "Building scalable, user-centric applications"
-        
-    def current_goals(self):
-        return {
-            "explore": ["Advanced ML/AI", "System Design", "Cloud Architecture"],
-            "master": ["React", "Laravel", "Python ML Stack"],
-            "contribute": "Open-source projects & real-world solutions"
-        }
+- 🎓 Informatics Student at UPN "Veteran" Jawa Timur *(Semester 4)*
+- 💻 Passionate about Software Engineering
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌐 Exploring Web Development, Web3, and Mobile Development
+- 🚀 Always learning and experimenting with new technologies
+- 📍 Indonesia
+---
 
-akmal = Developer()
-print(f"Always learning. Always growing. 🌱")
-```
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-## 💻 Tech Stack & Expertise
+### Frontend
 
-<details open>
-<summary><b>📚 Languages</b></summary>
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white&logoWidth=20)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=20)
-![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white&logoWidth=20)
-![C](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=white&logoWidth=20)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=20)
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white&logoWidth=20)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&logoWidth=20)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend & UI/UX</b></summary>
-
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black&logoWidth=20)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white&logoWidth=20)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=20)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white&logoWidth=20)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Databases</b></summary>
-
-![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white&logoWidth=20)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=20)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&logoWidth=20)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=20)
-![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=20)
-
-</details>
-
-<details open>
-<summary><b>🤖 Machine Learning & Data Science</b></summary>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=20)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white&logoWidth=20)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=20)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoWidth=20)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&logoWidth=20)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Development</b></summary>
-
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=20)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)
-![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white&logoWidth=20)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white&logoWidth=20)
-![Railway](https://img.shields.io/badge/Railway-0b0d0e?style=for-the-badge&logo=railway&logoColor=white&logoWidth=20)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white&logoWidth=20)
-
-</details>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📈 GitHub Statistics
+### Backend
 
-<div align="center">
-
-**GitHub Profile:** [@Malfrmnsyhh](https://github.com/Malfrmnsyhh)
-
-```
-📊 Contributions: 200+ commits
-🔥 Active Streak: Consistent coding
-📚 Repositories: 10+ public projects
-⭐ Top Languages: Python, JavaScript, PHP, C++, Java
-```
-
-*Check GitHub profile untuk detailed stats*
-
-</div>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-## 🎯 Featured Projects
+### Database
 
-<div align="center">
-
-### 🏔️ **Mountix** - Mountain Hiking Booking Platform
-![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=flat&logo=tailwindcss&logoColor=white)
-![Railway](https://img.shields.io/badge/Deployed-Railway-0b0d0e?style=flat)
-
-> Full-featured platform untuk booking hiking adventures dengan interactive map integration, real-time booking status, dan user authentication system.
-
-**Key Features:** 
-- 🗺️ Interactive mountain location mapping
-- 📅 Real-time availability tracking
-- 💳 Integrated payment gateway
-- 👥 User profile & booking history
-- ⭐ Review & rating system
-
-[🔗 View Project](https://github.com/Malfrmnsyhh/mountix) | [🚀 Live Demo](https://mountix.railway.app)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
-### 💰 **Amera Coffee** - POS System
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-333333?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
+### Machine Learning
 
-> Desktop POS system untuk manajemen penjualan kopi dengan multi-role access, inventory management, dan real-time sales reporting.
-
-**Key Features:**
-- 🧾 Complete POS functionality
-- 👨‍💼 Multi-role user system (Admin/Karyawan)
-- 📊 Sales analytics & reporting
-- 🛒 Inventory management
-- 💾 Transaction history tracking
-
-[🔗 View Project](https://github.com/Malfrmnsyhh/amera-coffee-pos)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
-### 🏥 **Kios Sehat** - Jamu E-Commerce Platform
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white)
+### Cloud & Deployment
 
-> Modern e-commerce website untuk penjualan jamu dengan secure admin panel, product management, dan customer order tracking.
-
-**Key Features:**
-- 🔒 Secure authentication (bcrypt)
-- 🛍️ Complete product catalog
-- 📦 Order management system
-- 💳 Payment integration
-- 📱 Responsive design
-
-[🔗 View Project](https://github.com/Malfrmnsyhh/kios-sehat)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
-### 📚 **SiKampus** - Academic Information System
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white)
+### Networking & Virtualization
 
-> Comprehensive admin dashboard untuk manajemen data mahasiswa & dosen dengan CRUD operations, authentication, dan pagination.
-
-**Key Features:**
-- 👥 Student & lecturer management
-- 📊 Data analytics dashboard
-- 🔐 Role-based access control
-- 🌓 Dark mode support
-- 📄 PDF report generation
-
-[🔗 View Project](https://github.com/Malfrmnsyhh/sikampus)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-2C5AA0?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-### 🎓 **StudyTrack** - Learning Management Prototype
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/Design_System-Custom-0d47a1?style=flat)
+### Tools
 
-> High-fidelity mobile app prototype untuk student learning management dengan comprehensive design system dan interactive components.
-
-**Key Features:**
-- 🎨 Complete design system (Poppins, Plus Jakarta Sans)
-- 📱 Responsive mobile interface
-- 📊 Interactive dashboard screens
-- 🎯 User-centric design approach
-- ✨ Modern UI components
-
-[🔗 View Prototype](https://www.figma.com/proto/M77H09jtfWvCokPoBvAMrj/Project-UAS-UI-UX?page-id=9%3A125&node-id=64-2889&viewport=537%2C279%2C0.45&t=4P67QXZrwcDzPlMo-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=24%3A948)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🔬 Current Focus
+## 📫 Connect with Me
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🤖 Machine Learning & AI</h3>
-      <p>Deep learning, neural networks, predictive modeling, dan data analysis dengan focus pada real-world applications</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>💻 Full-Stack Development</h3>
-      <p>Building scalable web applications dengan modern frameworks, clean architecture, dan best practices</p>
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmalfirmansyah)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malfrmnsyhh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akmalhard21@gmail.com)
 
 ---
 
-## 🏆 Achievements & Contributions
-
-<div align="center">
-
-| Badge | Achievement |
-|:---:|:---|
-| 🎯 | **4+ Semester** - Active Computer Science Student |
-| 💼 | **DEV-Z Softwarehouse** - Full-stack developer untuk Syariah fintech project |
-| 🧠 | **ML Practitioner** - Built ANN/Backpropagation models untuk predictive analytics |
-| 🏗️ | **System Design** - UML diagrams, architecture planning, & technical documentation |
-| 🌐 | **Production Deployment** - Railway, GCP, & cloud infrastructure experience |
-| 📱 | **UI/UX Design** - Figma prototyping dengan complete design systems |
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────┐
-│  Advanced ML/AI          │  System Design      │
-│  Cloud Architecture      │  DevOps & Docker    │
-│  React Advanced Patterns │  Testing & CI/CD    │
-│  Database Optimization   │  Microservices      │
-└─────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🤝 Let's Collaborate!
-
-<div align="center">
-
-Saya terbuka untuk:
-- 💡 **Project collaboration** dalam web development & ML/AI
-- 📖 **Knowledge sharing** tentang tech stack yang saya gunakan
-- 🚀 **Mentoring** untuk junior developers
-- 🔗 **Open-source contributions**
-
-<br/>
-
-<a href="https://linkedin.com/in/akmalfirmansyah">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0d47a1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:akmal@example.com">
-  <img src="https://img.shields.io/badge/Email-Get_In_Touch-0d47a1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://github.com/Malfrmnsyhh">
-  <img src="https://img.shields.io/badge/GitHub-View_My_Work-0d47a1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
-
----
-
-## 📊 Quick Stats
-
-<div align="center">
-
-![Code Time](https://img.shields.io/badge/Code%20Time-1000%2B%20Hours-0d47a1?style=flat-square)
-![Projects](https://img.shields.io/badge/Projects-10%2B-0d47a1?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-8-0d47a1?style=flat-square)
-![Frameworks](https://img.shields.io/badge/Frameworks-10%2B-0d47a1?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
----
-
-### 🚀 Happy Coding!
-
-> *"Code is poetry written for computers and humans alike."*
-
-**Let's build something amazing together! 💙**
-
-Made with ❤️ by Muhammad Akmal Firmansyah
-
-</div>
+> *Always learning. Always building.*
