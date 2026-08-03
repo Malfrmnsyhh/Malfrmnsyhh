@@ -13,7 +13,6 @@ I'm passionate about learning new technologies, exploring innovative ideas, and 
 - 🤖 Interested in Artificial Intelligence & Machine Learning
 - 🌐 Exploring Web Development, Web3, and Mobile Development
 - 🚀 Always learning and experimenting with new technologies
-- 📍 Indonesia
 ---
 
 ## 💻 Tech Stack
