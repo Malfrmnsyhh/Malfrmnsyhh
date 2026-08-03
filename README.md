@@ -8,7 +8,7 @@ I'm passionate about learning new technologies, exploring innovative ideas, and 
 
 ## 🚀 About Me
 
-- 🎓 Informatics Student at UPN "Veteran" Jawa Timur *(Semester 4)*
+- 🎓 Informatics Student at UPN "Veteran" Jawa Timur
 - 💻 Passionate about Software Engineering
 - 🤖 Interested in Artificial Intelligence & Machine Learning
 - 🌐 Exploring Web Development, Web3, and Mobile Development
