@@ -1,4 +1,4 @@
-# Hi there 
+# Hi there 🙌
 
 I'm **Muhammad Akmal Firmansyah**, an Informatics student at **Universitas Pembangunan Nasional "Veteran" Jawa Timur**.
 
