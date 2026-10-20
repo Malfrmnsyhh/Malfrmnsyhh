@@ -25,6 +25,10 @@
   <b><i> ❝ Keep learning, keep building! ❞</i></b>
 </h3>
 
+<p align="center">
+  <img src="https://i.makeagif.com/media/2-23-2026/hyc4N8.gif" width="300" alt="Sleepy">
+</p>
+
 
 <h3>About Me 🧑</h3>
 
@@ -205,10 +209,39 @@
     <img width="70%" src="https://streak-stats.demolab.com/?user=Malfrmnsyhh&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
   </a>
 </div>
+</details>
+
+<details open>
+<summary>
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="25" alt="Trophy"> <b>Achievements</b>
+</summary>
 <br>
 <div align="center">
-  <a href="https://github.com/Malfrmnsyhh">
-    <img src="https://github-profile-trophy.vercel.app/?username=Malfrmnsyhh&theme=darkhub&no-frame=true"/>
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <a href="https://github.com/Malfrmnsyhh?tab=achievements&achievement=pull-shark">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark">
+        </a>
+        <br><b>Pull Shark</b> <code>x2</code>
+      </td>
+      <td align="center" width="150">
+        <a href="https://github.com/Malfrmnsyhh?tab=achievements&achievement=quickdraw">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw">
+        </a>
+        <br><b>Quickdraw</b>
+      </td>
+      <td align="center" width="150">
+        <a href="https://github.com/Malfrmnsyhh?tab=achievements&achievement=yolo">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO">
+        </a>
+        <br><b>YOLO</b>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <a href="https://github.com/Malfrmnsyhh?tab=achievements">
+    <img src="https://img.shields.io/badge/View_All_Achievements-94b4a4?style=for-the-badge&logo=github&logoColor=black" alt="View All Achievements">
   </a>
 </div>
 </details>
@@ -222,7 +255,7 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/akmalfirmansyah" target="_blank">
+  <a href="https://www.linkedin.com/in/akmal-firmansyah-912b34329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:akmalhard21@gmail.com" target="_blank">
