@@ -16,7 +16,7 @@
       </p>
     </td>
     <td style="vertical-align: top;">
-      <img src="sleepy.gif" width="150" alt="Sleepy">
+      <img src="https://media.tenor.com/1Z3CkhWaWbMAAAAj/cat-catmeme.gif(https://tenor.com/view/clapping-black-cat-handshake-cat-memes-cat-gif-18082909397710507923)" width="850" alt="Clapping cat">
     </td>
   </tr>
 </table>
