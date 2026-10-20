@@ -16,7 +16,7 @@
       </p>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://i.makeagif.com/media/8-18-2023/tuSsml.gif" width="300" alt="Coding animation">
+      <img src="sleepy.gif" width="150" alt="Sleepy">
     </td>
   </tr>
 </table>
@@ -24,10 +24,6 @@
 <h3 align="center" style="margin-top: 15px;">
   <b><i> ❝ Keep learning, keep building! ❞</i></b>
 </h3>
-
-<p align="center">
-  <img src="https://i.makeagif.com/media/2-23-2026/hyc4N8.gif" width="300" alt="Sleepy">
-</p>
 
 
 <h3>About Me 🧑</h3>
